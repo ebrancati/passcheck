@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>passcheck</name>
-    <description>Password validation with configurable rules and breach detection</description>
+    <description>Password validation with custom rules and breach detection</description>
     <url>https://github.com/ebrancati/passcheck</url>
 
     <licenses>
