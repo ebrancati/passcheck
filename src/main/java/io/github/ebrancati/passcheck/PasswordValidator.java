@@ -332,7 +332,7 @@ public class PasswordValidator {
 
     private int getBreachCount(String password) throws IOException {
         final String BREACH_API_URL = "https://api.pwnedpasswords.com/range/";
-        final String USER_AGENT = "passcheck/0.1.0";
+        final String USER_AGENT = "passcheck/0.2.0";
         final int HASH_PREFIX_LENGTH = 5;
 
         HttpClient httpClient = createDefaultHttpClient();
