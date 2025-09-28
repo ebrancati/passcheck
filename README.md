@@ -15,7 +15,7 @@ Simple Java password validation library with custom rules and breach detection
 ## Getting Started
 
 ```java
-import io.github.ebrancati.password.PasswordValidator;
+import io.github.ebrancati.passcheck.PasswordValidator;
 
 // Set up validation rules 
 PasswordValidator validator = new PasswordValidator()

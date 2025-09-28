@@ -1,4 +1,4 @@
-package io.github.ebrancati.password;
+package io.github.ebrancati.passcheck;
 
 import java.util.ArrayList;
 import java.util.List;
